@@ -1,0 +1,21 @@
+---
+abstract: '[One line description of module''s purpose here]'
+author:
+  - 'Arun Prasaad  C<< <ap@optasportsdata.com> >>'
+build_requires:
+  Test::More: 0.42
+distribution_type: module
+generated_by: 'Module::Install version 0.77'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Scalar-Constant
+no_index:
+  directory:
+    - inc
+    - t
+resources:
+  license: http://dev.perl.org/licenses/
+  repository: http://github.com/arunbear/perl5-scalar-constant
+version: 0.001001
